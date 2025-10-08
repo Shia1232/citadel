@@ -9,4 +9,4 @@ Flag format: citadel{password}
 ### Solve  
 **Flag:**  `citadel{fake_flag_4_fake_pl4y3rs}`
 I put the hash into an online tool to uncover the possible hashing protocols it could follow.  
-I tried bcrypt and got the flag using the password fake_flag_4_fake_pl4y3rs. h
+I tried bcrypt and got the flag using the password fake_flag_4_fake_pl4y3rs. 
